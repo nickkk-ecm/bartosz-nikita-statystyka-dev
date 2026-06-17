@@ -22,3 +22,9 @@ Pozwalają ocenić, czy dane rozkładają się symetrycznie:
 
 * **Moment centralny rzędu 3** ($M_3$): Jeśli $M_3 = 0$, rozkład jest symetryczny; jeśli $M_3 > 0$ to prawostronnie asymetryczny; jeśli $M_3 < 0$ to lewostronnie asymetryczny.
 * **Współczynnik asymetrii** ($A_s$): Wyrażany wzorem: $A_{s}=\frac{M_{3}}{s^{3}}$.
+
+## 4. Miary koncentracji
+Opisują skupienie wartości wokół średniej:
+
+* **Kurtoza** ($K$): Obliczana ze wzoru: $K=\frac{M_{4}}{s^{4}}$. Wskazuje na możliwe nierównomierne rozdysponowanie wartości cechy.
+* **Eksces**: To kurtoza pomniejszona o 3, co ułatwia interpretację (zależy od znaku). Wyróżniamy rozkłady leptokurtyczne ($Ex>0$), mezokurtyczne ($Ex=0$) oraz platokurtyczne ($Ex<0$).
