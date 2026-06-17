@@ -1,5 +1,7 @@
 site_name: Charakterystyka Próby Statystycznej
-theme: readthedocs
+theme: 
+  name: mkdocs
+  color_mode: dark
 
 nav:
   - Strona główna: index.md
